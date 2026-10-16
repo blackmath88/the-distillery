@@ -1,4 +1,15 @@
+<!-- BEGIN public-repo-header -->
+<div align="center">
+
 # 🧪 The Distillery
+
+<a href="https://github.com/blackmath88/the-distillery"><img alt="Primary language: TypeScript" src="https://img.shields.io/badge/language-TypeScript-526078?style=flat"></a>
+<a href="https://github.com/blackmath88/the-distillery#readme"><img alt="README" src="https://img.shields.io/badge/docs-readme-16796f?style=flat"></a>
+<a href="https://github.com/blackmath88/the-distillery/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/blackmath88/the-distillery?style=flat&amp;color=737373"></a>
+
+</div>
+<!-- END public-repo-header -->
+
 **Zaunite Alchemy for PDFs → Markdown**
 
 ![The Distillery](https://via.placeholder.com/800x400/1A1A1A/FF007F?text=THE+DISTILLERY)
